@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
               unselectedLabelStyle: const TextStyle(color: Colors.blueGrey),
               items: [
                 BottomNavigationBarItem(
-                    icon: SvgPicture.asset(AppIcons.all), label: 'all'),
+                    icon: SvgPicture.asset(AppIcons.all), label: 'All'),
                 BottomNavigationBarItem(
                     icon: SvgPicture.asset(AppIcons.check_1),
                     label: 'Completed'),

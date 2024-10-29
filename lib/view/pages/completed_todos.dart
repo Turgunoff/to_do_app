@@ -29,7 +29,7 @@ class _CompletedTodosState extends State<CompletedTodos> {
         builder: (context, state) => state.taskmodel.isEmpty
             ? const Center(
                 child: Text(
-                "has not Todos",
+                "No Todos",
                 style: TextStyle(color: Colors.black54, fontSize: 20),
               ))
             : ListView.builder(
