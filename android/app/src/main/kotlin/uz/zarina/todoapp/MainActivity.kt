@@ -1,4 +1,4 @@
-package uz.zarina.todoapp
+package uz.zarishka.todo
 
 import io.flutter.embedding.android.FlutterActivity
 
